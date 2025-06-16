@@ -28,14 +28,14 @@ To secure the decentralized future by providing world-class smart contract audit
 
 ### Core Repositories
 
-| Repository | Description | Tech Stack | Status |
-|------------|-------------|------------|--------|
-| **[api](https://github.com/AuditronLabs/api)** | RESTful API for audit reports and vulnerability data | Node.js, Express, PostgreSQL | 🚧 In Development |
-| **[agent](https://github.com/AuditronLabs/agent)** | AI-powered smart contract analysis agent | Python, Machine Learning | 🚧 In Development |
-| **[web](https://github.com/AuditronLabs/web)** | Main web application for audit management | React, TypeScript, Next.js | 🚧 In Development |
-| **[landing](https://github.com/AuditronLabs/landing)** | Public-facing website and documentation | Next.js, TailwindCSS | 🚧 In Development |
-| **[dataset](https://github.com/AuditronLabs/dataset)** | Curated smart contract vulnerability datasets | Python, Data Analysis | 🚧 In Development |
-| **[research](https://github.com/AuditronLabs/research)** | Security research papers and findings | Markdown, Academic | 🚧 In Development |
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| **[api](https://github.com/AuditronLabs/api)** | RESTful API for audit reports and vulnerability data | Node.js, Express, PostgreSQL |
+| **[agent](https://github.com/AuditronLabs/agent)** | AI-powered smart contract analysis agent | Python, Machine Learning |
+| **[web](https://github.com/AuditronLabs/web)** | Main web application for audit management | React, TypeScript, Next.js |
+| **[landing](https://github.com/AuditronLabs/landing)** | Public-facing website and documentation | Next.js, TailwindCSS |
+| **[dataset](https://github.com/AuditronLabs/dataset)** | Curated smart contract vulnerability datasets | Python, Data Analysis |
+| **[research](https://github.com/AuditronLabs/research)** | Security research papers and findings | Markdown, Academic |
 
 ---
 
