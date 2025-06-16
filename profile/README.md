@@ -30,7 +30,7 @@ To secure the decentralized future by providing world-class smart contract audit
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
-| **[api](https://github.com/AuditronLabs/api)** | RESTful API for audit reports and vulnerability data | Node.js, Express, PostgreSQL |
+| **[core](https://github.com/AuditronLabs/core)** | RESTful API for audit reports and vulnerability data | Node.js, Express, PostgreSQL |
 | **[agent](https://github.com/AuditronLabs/agent)** | AI-powered smart contract analysis agent | Python, Machine Learning |
 | **[web](https://github.com/AuditronLabs/web)** | Main web application for audit management | React, TypeScript, Next.js |
 | **[landing](https://github.com/AuditronLabs/landing)** | Public-facing website and documentation | Next.js, TailwindCSS |
