@@ -34,7 +34,7 @@ To secure the decentralized future by providing world-class smart contract audit
 | **[agent](https://github.com/OpenAuditLabs/agent)** | AI-powered smart contract analysis agent | Python, Machine Learning |
 | **[web](https://github.com/OpenAuditLabs/web)** | Main web application for audit management | React, TypeScript, Next.js |
 | **[landing](https://github.com/OpenAuditLabs/landing)** | Public-facing website and documentation | Next.js, TailwindCSS |
-| **[dataset](https://github.com/OpenAuditLabs/dataset)** | Curated smart contract vulnerability datasets | Python, Data Analysis |
+| **[datasets](https://github.com/OpenAuditLabs/datasets)** | Curated smart contract vulnerability datasets | Python, Data Analysis |
 
 ---
 
