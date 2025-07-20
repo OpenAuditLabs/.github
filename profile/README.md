@@ -10,7 +10,7 @@
 
 ## 🔐 About OpenAuditLabs
 
-**OpenAuditLabs** is a up–and–coming smart contract security audit firm dedicated to fortifying the Web3 ecosystem through comprehensive security assessments and cutting-edge research. We combine deep technical expertise with innovative tooling to identify vulnerabilities and enhance the security posture of blockchain applications.
+**OpenAuditLabs** is a up–and–coming automated smart contract security audit firm dedicated to fortifying the Web3 ecosystem through comprehensive security assessments and cutting-edge research. We combine deep technical expertise with innovative tooling to identify vulnerabilities and enhance the security posture of blockchain applications.
 
 ### 🎯 Our Mission
 To secure the decentralized future by providing world-class smart contract audits, security research, and educational resources that empower developers to build safer blockchain applications.
@@ -40,10 +40,10 @@ To secure the decentralized future by providing world-class smart contract audit
 
 ## 📚 Resources & Learning
 
-- **[Documentation](https://docs.openaudits.xyz)** - Comprehensive guides and best practices
-- **[Blog](https://blog.openaudits.xyz)** - Latest security research and insights
-- **[Security Checklist](https://checklist.openaudits.xyz)** - Open-source audit guidelines
-- **[Vulnerability Database](https://vulndb.openaudits.xyz)** - Curated security findings
+- **[Documentation](https://docs.openauditlabs.xyz)** - Comprehensive guides and best practices
+- **[Blog](https://blog.openauditlabs.xyz)** - Latest security research and insights
+- **[Security Checklist](https://checklist.openauditlabs.xyz)** - Open-source audit guidelines
+- **[Vulnerability Database](https://vulndb.openauditlabs.xyz)** - Curated security findings
 
 ---
 
@@ -51,7 +51,7 @@ To secure the decentralized future by providing world-class smart contract audit
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-openaudits.xyz-blue?style=for-the-badge)](https://openauditlabs.xyz)
+[![Website](https://img.shields.io/badge/Website-openauditlabs.xyz-blue?style=for-the-badge)](https://openauditlabs.xyz)
 [![Twitter](https://img.shields.io/badge/Twitter-@OpenAuditLabs-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/openauditlabs)
 
 </div>
