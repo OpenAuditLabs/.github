@@ -10,7 +10,7 @@
 
 ## 🔐 About OpenAuditLabs
 
-**OpenAuditLabs** is a leading smart contract security audit firm dedicated to fortifying the Web3 ecosystem through comprehensive security assessments and cutting-edge research. We combine deep technical expertise with innovative tooling to identify vulnerabilities and enhance the security posture of blockchain applications.
+**OpenAuditLabs** is a up–and–coming smart contract security audit firm dedicated to fortifying the Web3 ecosystem through comprehensive security assessments and cutting-edge research. We combine deep technical expertise with innovative tooling to identify vulnerabilities and enhance the security posture of blockchain applications.
 
 ### 🎯 Our Mission
 To secure the decentralized future by providing world-class smart contract audits, security research, and educational resources that empower developers to build safer blockchain applications.
@@ -51,10 +51,8 @@ To secure the decentralized future by providing world-class smart contract audit
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-openaudits.xyz-blue?style=for-the-badge)](https://openaudits.xyz)
-[![Twitter](https://img.shields.io/badge/Twitter-@OpenAuditLabs-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OpenAuditLabs-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/)
-[![Discord](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/)
+[![Website](https://img.shields.io/badge/Website-openaudits.xyz-blue?style=for-the-badge)](https://openauditlabs.xyz)
+[![Twitter](https://img.shields.io/badge/Twitter-@OpenAuditLabs-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/openauditlabs)
 
 </div>
 
@@ -62,10 +60,10 @@ To secure the decentralized future by providing world-class smart contract audit
 
 ## 📫 Get In Touch
 
-**General Questions:** 💬 [contact@openaudits.xyz](mailto:contact@openaudits.xyz)
+**General Questions:** 💬 [research@openauditlabs.xyz](mailto:research@openauditlabs.xyz)
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ for the Web3 community</sub>
+  <sub>Built with ❤️ for the Web3 & CyberSec community</sub>
 </div>
