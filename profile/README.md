@@ -40,10 +40,10 @@ To secure the decentralized future by providing world-class smart contract audit
 
 ## 📚 Resources & Learning
 
-- **[Documentation](https://docs.openauditlabs.xyz)** - Comprehensive guides and best practices
-- **[Blog](https://blog.openauditlabs.xyz)** - Latest security research and insights
-- **[Security Checklist](https://checklist.openauditlabs.xyz)** - Open-source audit guidelines
-- **[Vulnerability Database](https://vulndb.openauditlabs.xyz)** - Curated security findings
+- **[Documentation](https://docs.openauditlabs.org)** - Comprehensive guides and best practices
+- **[Blog](https://blog.openauditlabs.org)** - Latest security research and insights
+- **[Security Checklist](https://checklist.openauditlabs.org)** - Open-source audit guidelines
+- **[Vulnerability Database](https://vulndb.openauditlabs.org)** - Curated security findings
 
 ---
 
@@ -51,7 +51,7 @@ To secure the decentralized future by providing world-class smart contract audit
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-openauditlabs.xyz-blue?style=for-the-badge)](https://openauditlabs.xyz)
+[![Website](https://img.shields.io/badge/Website-openauditlabs.org-blue?style=for-the-badge)](https://openauditlabs.org)
 [![Twitter](https://img.shields.io/badge/Twitter-@OpenAuditLabs-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/openauditlabs)
 
 </div>
@@ -60,10 +60,10 @@ To secure the decentralized future by providing world-class smart contract audit
 
 ## 📫 Get In Touch
 
-**General Questions:** 💬 [research@openauditlabs.xyz](mailto:research@openauditlabs.xyz)
+**General Questions:** 💬 [hello@openauditlabs.org](mailto:hello@openauditlabs.org)
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ for the Web3 & CyberSec community</sub>
+  <strong>OpenAuditLabs</strong> - Securing the Future of Smart Contracts with AI
 </div>
